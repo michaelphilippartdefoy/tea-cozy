@@ -1,0 +1,9 @@
+/* General Styles */
+
+html {
+    font-family: helvetica;
+    font-size: 22px;
+    color: seashell;
+    background-color: black;
+    opacity: 0.9;
+}
