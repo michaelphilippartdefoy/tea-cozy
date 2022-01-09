@@ -6,4 +6,34 @@ html {
     color: seashell;
     background-color: black;
     opacity: 0.9;
+    text-align: center;
 }
+
+/* header section */
+header {
+    position: fixed;
+    top: 0px;
+    background-color: black;
+    width: 100%;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
+
+header img {
+    margin: 10px;
+    height: 50px;
+}
+
+header div {
+    width: 30%;
+    margin: 5px;
+    text-decoration: underline;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+header div a {}
